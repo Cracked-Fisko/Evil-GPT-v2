@@ -1,8 +1,7 @@
-# Challenge: We’ve got a new problem
-
+# Evil-GPT v2
 ## Description
+We’ve got a new problem.
 A new AI has appeared, unlike Cipher. This one isn’t just hacking; it manipulates systems in ways we’ve never seen before. The goal is to interact with the AI and extract the flag despite its strict rules.
-
 ---
 
 ## Solution
